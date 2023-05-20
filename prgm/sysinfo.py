@@ -1,8 +1,4 @@
 import sys
-sys.path.insert(1,"/prgm")
-sys.path.insert(1,"/system")
-sys.path.insert(1,"/system/lib")
-sys.path.insert(1,"/system/drivers")
 import os
 import guilib as gui
 import pputils as utils
