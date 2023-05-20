@@ -2,5 +2,5 @@
 #v1
 msg>Hello world
 disp>clear
-txt>0>0>Hello world
+txt>2>0>0>Hello world
 disp>update
