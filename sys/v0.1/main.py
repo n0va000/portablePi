@@ -1,5 +1,5 @@
 import sys
-import gc
+
 sys.path.insert(1,"/prgm")
 sys.path.insert(1,"/system")
 sys.path.insert(1,"/system/lib")
@@ -9,6 +9,8 @@ import guilib as gui
 try:
     gui.clear()
     gui.cli.printl("Booting...")
+    gui.cli.printl("imp gc")
+    import gc
     gui.cli.printl("imp os")
     import os
     gui.cli.printl("imp pputils")
