@@ -7,22 +7,22 @@ go>2
 msg>not done yet
 disp>clear
 txt>1>0>0>press a key
-wb>A>19
-wb>B>21
-wb>C>23
-wb>D>25
-wb>E>28
+wb>A>17
+wb>B>19
+wb>C>21
+wb>D>23
+wb>E>25
 disp>update
 sleep>0.5
-go>10
+go>7
 msg>A
-go>9
+go>7
 msg>B
-go>9
+go>7
 msg>C
-go>9
+go>7
 msg>D
-go>9
+go>7
 msg>E
-go>9
+go>7
 #END
