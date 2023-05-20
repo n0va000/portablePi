@@ -41,13 +41,13 @@ def main():
     while 1:
         gui.clear()
         gui.printAt("Downloading new time",0,0,1)
+        gui.update()
         timeJson = utils.wlan.wget("http://date.jsontest.com/")
         dateNow = timeJson["date"]
         timeNow = timeJson["time"]
         timeNums = timeNow.split(":")
         timeXM = timeNow[-2:]
         timeNow = timeNums[0]+" : "+timeNums[1]+" "+timeXM
-        gui.update()
         gui.clear()
         gui.printAt(dateNow,0,0,1)
         gui.printAt(timeNow,0,8,2)
