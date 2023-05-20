@@ -1,15 +1,22 @@
 import sys
+import gc
 sys.path.insert(1,"/prgm")
 sys.path.insert(1,"/system")
 sys.path.insert(1,"/system/lib")
 sys.path.insert(1,"/system/drivers")
-import os
-import pputils as psys
+
 import guilib as gui
-import time
 try:
     gui.clear()
     gui.cli.printl("Booting...")
+    gui.cli.printl("imp os")
+    import os
+    gui.cli.printl("imp pputils")
+    import pputils as psys
+    gui.cli.printl("imp time")
+    import time
+    gui.cli.printl("collecting garbage")
+    gc.collect()
     gui.cli.printl("Creating RBD")
     bdev = psys.RAMBlockDev(512, 50)
     gui.cli.printl("making RBD filesystem")
@@ -19,6 +26,8 @@ try:
     time.sleep(1)
     gui.cli.printl("imp bprgm")
     import bprgm
+    gui.cli.printl("collecting garbage")
+    gc.collect()
     gui.cli.printl("entering bprgm")
     bprgm.main()
     gui.cli.auto = True
