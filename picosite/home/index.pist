@@ -3,7 +3,7 @@
 msg>Welcome to the web
 ask>5>7>hello>search>go where?
 gourl>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/hello.pist
-go>4
+go>3
 msg>not done yet
 disp>clear
 txt>1>0>0>press a key
@@ -14,14 +14,14 @@ wb>D>24
 wb>E>26
 disp>update
 sleep>0.5
-go>8
+go>7
 msg>you pressed A!
-go>4
+go>3
 msg>you pressed B!
-go>4
+go>3
 msg>you pressed C!
-go>4
+go>3
 msg>you pressed D!
-go>4
+go>3
 msg>you pressed E!
-go>4
+go>3
