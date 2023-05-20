@@ -2,6 +2,6 @@
 #v1
 msg>Welcome to the web
 ask>5>7>hello>search>go where?
-imp>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/hello.pist
+gourl>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/hello.pist
 go>4
 msg>not done yet
