@@ -10,9 +10,11 @@ try:
     import userdata
     ssid = userdata.netCred.ssid
     netpsd = userdata.netCred.psd
+    netWorks = userdata.netCred.state
 except:
     ssid = "failed"
-    netpsd = "failed"    
+    netpsd = "failed"
+    netWorks = False
 def pholderImg(xsize,ysize):
     ''' place holder image generator'''
     empty = "0"*8
