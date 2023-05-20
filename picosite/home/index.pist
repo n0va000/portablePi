@@ -14,7 +14,7 @@ wb>D>25
 wb>E>28
 disp>update
 sleep>0.5
-go>9
+go>10
 msg>A
 go>9
 msg>B
