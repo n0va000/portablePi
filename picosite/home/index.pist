@@ -7,21 +7,21 @@ go>2
 msg>not done yet
 disp>clear
 txt>1>0>0>press a key
-wb>A>18
-wb>B>20
-wb>C>22
-wb>D>24
-wb>E>26
+wb>A>19
+wb>B>21
+wb>C>23
+wb>D>25
+wb>E>28
 disp>update
 sleep>0.5
 go>9
-msg>you pressed A!
+msg>A
 go>9
-msg>you pressed B!
+msg>B
 go>9
-msg>you pressed C!
+msg>C
 go>9
-msg>you pressed D!
+msg>D
 go>9
-msg>you pressed E!
+msg>E
 go>9
