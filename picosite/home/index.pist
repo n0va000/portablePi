@@ -1,7 +1,7 @@
 #PICOSITE
 #v1
 msg>Welcome to the web
-ask>5>7>hello>search>go where?
+ask>6>8>hello>search>go where?
 gourl>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/hello.pist
 go>2
 msg>not done yet
@@ -14,14 +14,14 @@ wb>D>24
 wb>E>26
 disp>update
 sleep>0.5
-go>7
+go>9
 msg>you pressed A!
-go>3
+go>9
 msg>you pressed B!
-go>3
+go>9
 msg>you pressed C!
-go>3
+go>9
 msg>you pressed D!
-go>3
+go>9
 msg>you pressed E!
-go>3
+go>9
