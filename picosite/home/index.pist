@@ -1,6 +1,9 @@
 #PICOSITE
 #v1
+
+#
 msg>Hello world
 disp>clear
 txt>2>0>0>Hello world
+txt>1>0>16>website test
 disp>update
