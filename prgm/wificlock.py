@@ -49,7 +49,11 @@ def main():
         timeXM = timeNow[-2:]
         timeNow = timeNums[0]+" : "+timeNums[1]+" "+timeXM
         gui.clear()
-        gui.printAt(dateNow,0,0,1)
-        gui.printAt(timeNow,0,8,2)
+        gui.printAt(dateNow,0,0,2)
+        gui.printAt(timeNow,0,16,3)
+        gui.printAt("Press A to quit",0,56,1)
         gui.update()
-        time.sleep(60)
+        for i in range(120):
+            time.sleep(0.5)
+            if button.A.isPressed():
+                return timeNow
