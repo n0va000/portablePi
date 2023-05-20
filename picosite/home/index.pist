@@ -1,6 +1,5 @@
 #PICOSITE
 #v1
-
 # shows a messsage box saying hello world
 msg>Hello world
 # clears display
