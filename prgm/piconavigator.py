@@ -51,11 +51,11 @@ def darpy(url, path = "/rbd/", filename = "run"): # download and run py
     gui.clear()
     gui.printAt("downloading py script",0,0)
     gui.update()
-    gui.clear()
-    gui.update()
     f = open(path+filename+".py", "w")
     f.write(utils.wlan.wget(url, False).text)
     f.close()
+    gui.clear()
+    gui.update()
     try:
     	exec("import "+filename)
     except:
