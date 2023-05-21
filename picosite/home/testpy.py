@@ -1,7 +1,5 @@
 import guilib as gui
 import random
-import machine
-machine.bootloader()
 try:
   gui.msgBox("This is python!")
   gui.msgBox(gui.osk("type something"))
