@@ -14,5 +14,5 @@ try:
       gui.msgBox("target number is smaller")
     elif number > picked:
       gui.msgBox("target number is bigger")
-Except:
+except:
   gui.msgBox("Oh no an error occured in the demo")
