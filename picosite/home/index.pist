@@ -4,5 +4,5 @@ msg>Welcome to the web
 ask>4>6>hello web>python test>do what
 gourl>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/hello.pist
 go>2
-py>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/debug.py
+py>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/testpy.py
 go>2
