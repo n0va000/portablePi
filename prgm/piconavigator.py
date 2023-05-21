@@ -130,8 +130,8 @@ def runCommand(command, line, length):
         elif commandArgs[0]=="sleep":
             time.sleep(float(commandArgs[1]))
 	elif commandArgs[0]=="py":
-		gui.msgbox("website wants to run python")
-		gui.msgbox("this can be dangerous!")
+		gui.msgBox("website wants to run python")
+		gui.msgBox("this can be dangerous!")
 		if gui.ask("run python script?"):
 			darpy(commandArgs[1])
     except Exception as E:
