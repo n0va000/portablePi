@@ -1,8 +1,6 @@
 #PICOSITE
 #v1
 msg>Welcome to the web
-ask>4>6>hello web>python test>do what
-gourl>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/hello.pist
-go>2
-py>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/testpy.py
-go>2
+py>https://raw.githubusercontent.com/n0va000/portablePico/main/picosite/home/webhome.py
+msgbox>python is needed!
+go>3
