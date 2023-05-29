@@ -1,1 +1,3 @@
-Welcome to the store
+{
+  "0.2": "welcome to the store"
+}
