@@ -1,6 +1,9 @@
 {
   "type": "compiled",
   "prgm": "/prgm/prgm.mpy",
+  "name": "test",
+  "desc": "a test package",
+  "minsysver" = 0.2,
   "files": [
     "/files/test.txt"
   ]
