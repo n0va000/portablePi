@@ -1,0 +1,4 @@
+comment@$@ this will install a compiled program
+prgmCOMPILED@$@/prgm/prgm.mpy
+comment@$@ this will simply download test.txt to the root directory
+file@$@/files/test.txt@$@/test.txt
