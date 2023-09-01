@@ -1,0 +1,21 @@
+{
+  "name": "test quiz",
+  "questions": [
+  
+    {
+      "question": "test quiz",
+      "correct_answer": "correct",
+      "incorrect_answer": "incorrect"
+    },
+    {
+      "question": "test quiz question2",
+      "correct_answer": "correct",
+      "incorrect_answer": "incorrect"
+    },
+    {
+      "question": "hello",
+      "correct_answer": "world",
+      "incorrect_answer": "no"
+    }
+  ]
+}

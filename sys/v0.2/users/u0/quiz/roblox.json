@@ -1,0 +1,158 @@
+{
+  "name": "Roblox Adventure Quiz",
+  "lives": 3,
+  "desc": "Test your knowledge about the world of Roblox!",
+  "author": "AI Assistant (chatgpt)",
+  "questions": [
+    {
+      "question": "Creator of Roblox?",
+      "correct_answer": "David Baszucki",
+      "incorrect_answer": "John Doe"
+    },
+    {
+      "question": "Roblox currency?",
+      "correct_answer": "Robux",
+      "incorrect_answer": "Coins"
+    },
+    {
+      "question": "Roblox virtual world?",
+      "correct_answer": "Metaverse",
+      "incorrect_answer": "Cyberspace"
+    },
+    {
+      "question": "Roblox building blocks?",
+      "correct_answer": "Bricks",
+      "incorrect_answer": "Blocks"
+    },
+    {
+      "question": "Roblox in-game physics?",
+      "correct_answer": "Ragdoll",
+      "incorrect_answer": "Stiff"
+    },
+    {
+      "question": "Roblox game creation?",
+      "correct_answer": "Roblox Studio",
+      "incorrect_answer": "Game Maker"
+    },
+    {
+      "question": "Popular Roblox game genre?",
+      "correct_answer": "Obby",
+      "incorrect_answer": "Shooter"
+    },
+    {
+      "question": "Roblox avatar customization?",
+      "correct_answer": "Accessories",
+      "incorrect_answer": "Power-ups"
+    },
+    {
+      "question": "Roblox developers' marketplace?",
+      "correct_answer": "DevEx",
+      "incorrect_answer": "TradeHub"
+    },
+    {
+      "question": "Roblox annual event?",
+      "correct_answer": "Bloxy Awards",
+      "incorrect_answer": "RoboCon"
+    },
+    {
+      "question": "Roblox login requirement?",
+      "correct_answer": "Account",
+      "incorrect_answer": "Guest Mode"
+    },
+    {
+      "question": "Roblox premium membership?",
+      "correct_answer": "Roblox Premium",
+      "incorrect_answer": "Robux Prime"
+    },
+    {
+      "question": "Roblox scripting language?",
+      "correct_answer": "Lua",
+      "incorrect_answer": "Python"
+    },
+    {
+      "question": "Roblox trading system?",
+      "correct_answer": "Limiteds",
+      "incorrect_answer": "Tradables"
+    },
+    {
+      "question": "Roblox virtual catalog?",
+      "correct_answer": "Avatar Shop",
+      "incorrect_answer": "Virtual Store"
+    },
+    {
+      "question": "Roblox's first-ever user-generated item?",
+      "correct_answer": "Domino Crown",
+      "incorrect_answer": "Golden Crown"
+    },
+    {
+      "question": "Roblox friends system?",
+      "correct_answer": "Friend Requests",
+      "incorrect_answer": "Connection Requests"
+    },
+    {
+      "question": "Roblox's CEO?",
+      "correct_answer": "David Baszucki",
+      "incorrect_answer": "Tim Sweeney"
+    },
+    {
+      "question": "Roblox's virtual reality platform?",
+      "correct_answer": "Roblox VR",
+      "incorrect_answer": "VRBox"
+    },
+    {
+      "question": "Roblox's user-generated game assets?",
+      "correct_answer": "Models",
+      "incorrect_answer": "Blueprints"
+    },
+    {
+      "question": "Roblox game development language?",
+      "correct_answer": "Lua",
+      "incorrect_answer": "Java"
+    },
+    {
+      "question": "Roblox user-generated clothing items?",
+      "correct_answer": "T-shirts, Pants",
+      "incorrect_answer": "Hats, Shoes"
+    },
+    {
+      "question": "Roblox's virtual economy?",
+      "correct_answer": "Roblox Marketplace",
+      "incorrect_answer": "Trading Post"
+    },
+    {
+      "question": "Roblox group management?",
+      "correct_answer": "Clans",
+      "incorrect_answer": "Squads"
+    },
+    {
+      "question": "Roblox's popular game creation mode?",
+      "correct_answer": "Game Jam",
+      "incorrect_answer": "Level Design"
+    },
+    {
+      "question": "Roblox's physics engine?",
+      "correct_answer": "Ode",
+      "incorrect_answer": "PhysX"
+    },
+    {
+      "question": "Roblox's scripting API for GUI?",
+      "correct_answer": "UILibrary",
+      "incorrect_answer": "GUIInterface"
+    },
+    {
+      "question": "Roblox's largest user-made game?",
+      "correct_answer": "Adopt Me!",
+      "incorrect_answer": "MeepCity"
+    },
+    {
+      "question": "Roblox's legacy building tool?",
+      "correct_answer": "Building Blocks",
+      "incorrect_answer": "BrickStudio"
+    },
+    {
+      "question": "Roblox's classic currency?",
+      "correct_answer": "Tix",
+      "incorrect_answer": "Robucks"
+    }
+  ]
+}

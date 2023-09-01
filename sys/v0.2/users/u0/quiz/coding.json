@@ -1,0 +1,83 @@
+{
+  "name": "Coding Challenge",
+  "lives": 3,
+  "desc": "Test your coding knowledge with these quick questions!",
+  "author": "AI Assistant (chatgpt)",
+  "questions": [
+    {
+      "question": "Which language for web?",
+      "correct_answer": "JavaScript",
+      "incorrect_answer": "Python"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "correct_answer": "Hypertext Markup",
+      "incorrect_answer": "Hyperlink Text"
+    },
+    {
+      "question": "OOP instance creation?",
+      "correct_answer": "Instantiation",
+      "incorrect_answer": "Inheritance"
+    },
+    {
+      "question": "LIFO data structure?",
+      "correct_answer": "Stack",
+      "incorrect_answer": "Queue"
+    },
+    {
+      "question": "Python dictionary type?",
+      "correct_answer": "dict",
+      "incorrect_answer": "list"
+    },
+    {
+      "question": "CSS box model?",
+      "correct_answer": "Margin Padding Border Content",
+      "incorrect_answer": "Margin Border Padding Content"
+    },
+    {
+      "question": "C++ memory management?",
+      "correct_answer": "new delete",
+      "incorrect_answer": "malloc free"
+    },
+    {
+      "question": "API stands for?",
+      "correct_answer": "Application Programming Interface",
+      "incorrect_answer": "Application Programming Integration"
+    },
+    {
+      "question": "SQL database query?",
+      "correct_answer": "SELECT FROM WHERE",
+      "incorrect_answer": "INSERT INTO VALUES"
+    },
+    {
+      "question": "Binary code unit?",
+      "correct_answer": "Bit",
+      "incorrect_answer": "Nibble"
+    },
+    {
+      "question": "HTTP status code 404?",
+      "correct_answer": "Not Found",
+      "incorrect_answer": "OK"
+    },
+    {
+      "question": "Java platform owner?",
+      "correct_answer": "Oracle",
+      "incorrect_answer": "Microsoft"
+    },
+    {
+      "question": "Algorithm sort method?",
+      "correct_answer": "QuickSort",
+      "incorrect_answer": "MergeSort"
+    },
+    {
+      "question": "CSS selector symbol?",
+      "correct_answer": "Dot",
+      "incorrect_answer": "Hash"
+    },
+    {
+      "question": "Git undo commit?",
+      "correct_answer": "git reset",
+      "incorrect_answer": "git commit"
+    }
+  ]
+}

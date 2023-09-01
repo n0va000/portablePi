@@ -1,0 +1,58 @@
+{
+  "name": "Linux Knowledge Quiz",
+  "lives": 3,
+  "desc": "Test your knowledge about the world of Linux!",
+  "author": "AI Tux (chatgpt)",
+  "questions": [
+    {
+      "question": "Who created the Linux kernel?",
+      "correct_answer": "Linus Torvalds",
+      "incorrect_answer": "Richard Stallman"
+    },
+    {
+      "question": "Which Linux distribution is known for its use in servers and supercomputers?",
+      "correct_answer": "Red Hat Enterprise Linux",
+      "incorrect_answer": "Ubuntu"
+    },
+    {
+      "question": "What does the acronym 'GNU' stand for?",
+      "correct_answer": "GNU's Not Unix",
+      "incorrect_answer": "General Networking Utility"
+    },
+    {
+      "question": "Which package manager is commonly used in Debian-based distributions?",
+      "correct_answer": "APT",
+      "incorrect_answer": "RPM"
+    },
+    {
+      "question": "Which command is used to list files and directories in the terminal?",
+      "correct_answer": "ls",
+      "incorrect_answer": "dir"
+    },
+    {
+      "question": "Which Linux desktop environment is known for its simplicity and elegance?",
+      "correct_answer": "GNOME",
+      "incorrect_answer": "KDE Plasma"
+    },
+    {
+      "question": "What is the default shell in most Linux distributions?",
+      "correct_answer": "Bash",
+      "incorrect_answer": "Zsh"
+    },
+    {
+      "question": "Which file contains the system's hardware and software configuration on a Linux system?",
+      "correct_answer": "/etc/hostname",
+      "incorrect_answer": "/var/log/syslog"
+    },
+    {
+      "question": "What is the purpose of the 'chmod' command in Linux?",
+      "correct_answer": "Change file permissions",
+      "incorrect_answer": "Change user password"
+    },
+    {
+      "question": "Which directory contains system-wide configuration files in Linux?",
+      "correct_answer": "/etc",
+      "incorrect_answer": "/home"
+    }
+  ]
+}

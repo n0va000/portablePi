@@ -1,0 +1,58 @@
+{
+  "name": "Cryptic Riddles Quiz",
+  "lives": 3,
+  "desc": "Solve these cryptic riddles and test your wits!",
+  "author": "AI Enigma (chatgpt)",
+  "questions": [
+    {
+      "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
+      "correct_answer": "An Echo",
+      "incorrect_answer": "A Whisper"
+    },
+    {
+      "question": "I have keys but open no locks. I have space but no room. You can enter but not go outside. What am I?",
+      "correct_answer": "A Keyboard",
+      "incorrect_answer": "A House"
+    },
+    {
+      "question": "I'm tall when I'm young and short when I'm old. What am I?",
+      "correct_answer": "A Candle",
+      "incorrect_answer": "A Tree"
+    },
+    {
+      "question": "I have keys but can't open locks. I have a lot of memories but can't remember anything. What am I?",
+      "correct_answer": "A Computer",
+      "incorrect_answer": "A Diary"
+    },
+    {
+      "question": "The more you take, the more you leave behind. What am I?",
+      "correct_answer": "Footsteps",
+      "incorrect_answer": "Memories"
+    },
+    {
+      "question": "I have cities but no houses, forests but no trees, and rivers but no water. What am I?",
+      "correct_answer": "A Map",
+      "incorrect_answer": "A Dream"
+    },
+    {
+      "question": "I am taken from a mine, and shut up in a wooden case, from which I'm never released, and yet I am used by almost every person. What am I?",
+      "correct_answer": "Pencil Lead",
+      "incorrect_answer": "Gold"
+    },
+    {
+      "question": "I'm light as a feather, yet the strongest person can't hold me for much longer than a minute. What am I?",
+      "correct_answer": "Breath",
+      "incorrect_answer": "A Balloon"
+    },
+    {
+      "question": "I have keys but open no locks. I have a screen but show no movies. What am I?",
+      "correct_answer": "A Smartphone",
+      "incorrect_answer": "A TV"
+    },
+    {
+      "question": "I have keys but can't open any door. I have space but no room. What am I?",
+      "correct_answer": "A Piano",
+      "incorrect_answer": "A Closet"
+    }
+  ]
+}

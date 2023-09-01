@@ -1,0 +1,161 @@
+{
+  "name": "Ultimate Trivia Challenge",
+  "lives": 10,
+  "desc": "Test your knowledge with this comprehensive trivia quiz!",
+  "author": "AI Quizmaster (chat gpt)",
+  "questions": [
+    {
+      "question": "What is the capital city of Japan?",
+      "correct_answer": "Tokyo",
+      "incorrect_answer": "Seoul"
+    },
+    {
+      "question": "Which famous playwright wrote 'Romeo and Juliet'?",
+      "correct_answer": "William Shakespeare",
+      "incorrect_answer": "Jane Austen"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "correct_answer": "1912",
+      "incorrect_answer": "1914"
+    },
+    {
+      "question": "Which gas do plants use for photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answer": "Oxygen"
+    },
+    {
+      "question": "What is the world's largest ocean?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answer": "Indian Ocean"
+    },
+    {
+      "question": "Which famous scientist discovered the law of gravity?",
+      "correct_answer": "Isaac Newton",
+      "incorrect_answer": "Albert Einstein"
+    },
+    {
+      "question": "Who wrote the 'Harry Potter' book series?",
+      "correct_answer": "J.K. Rowling",
+      "incorrect_answer": "Stephen King"
+    },
+    {
+      "question": "What is the symbol for the chemical element oxygen?",
+      "correct_answer": "O",
+      "incorrect_answer": "Xy"
+    },
+    {
+      "question": "In which country was the game of chess invented?",
+      "correct_answer": "India",
+      "incorrect_answer": "China"
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "correct_answer": "Venus",
+      "incorrect_answer": "Mars"
+    },
+    
+     {
+      "question": "What is the largest mammal in the world?",
+      "correct_answer": "Blue Whale",
+      "incorrect_answer": "Elephant"
+    },
+    {
+      "question": "Which famous artist painted the 'Starry Night'?",
+      "correct_answer": "Vincent van Gogh",
+      "incorrect_answer": "Pablo Picasso"
+    },
+    {
+      "question": "In which year did the United States declare independence?",
+      "correct_answer": "1776",
+      "incorrect_answer": "1789"
+    },
+    {
+      "question": "What gas do plants release during photosynthesis?",
+      "correct_answer": "Oxygen",
+      "incorrect_answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which musical instrument has 88 keys?",
+      "correct_answer": "Piano",
+      "incorrect_answer": "Violin"
+    },
+    {
+      "question": "Who painted the 'Mona Lisa'?",
+      "correct_answer": "Leonardo da Vinci",
+      "incorrect_answer": "Michelangelo"
+    },
+    {
+      "question": "What is the process by which plants make their own food?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answer": "Respiration"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "correct_answer": "Mercury",
+      "incorrect_answer": "Venus"
+    },
+    {
+      "question": "Which famous scientist developed the theory of evolution?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the largest land animal in the world?",
+      "correct_answer": "African Elephant",
+      "incorrect_answer": "Giraffe"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "correct_answer": "Yen",
+      "incorrect_answer": "Dollar"
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "correct_answer": "Mars",
+      "incorrect_answer": "Venus"
+    },
+    {
+      "question": "In which year did World War I begin?",
+      "correct_answer": "1914",
+      "incorrect_answer": "1918"
+    },
+    {
+      "question": "What is the unit of measurement for electrical resistance?",
+      "correct_answer": "Ohm",
+      "incorrect_answer": "Volt"
+    },
+    {
+      "question": "Which famous playwright wrote 'Hamlet'?",
+      "correct_answer": "William Shakespeare",
+      "incorrect_answer": "George Bernard Shaw"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "correct_answer": "Ag",
+      "incorrect_answer": "Si"
+    },
+    {
+      "question": "Which mammal is capable of flight?",
+      "correct_answer": "Bat",
+      "incorrect_answer": "Kangaroo"
+    },
+    {
+      "question": "What is the largest moon of Jupiter?",
+      "correct_answer": "Ganymede",
+      "incorrect_answer": "Europa"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "correct_answer": "William Shakespeare",
+      "incorrect_answer": "Oscar Wilde"
+    },
+    {
+      "question": "What is the primary function of the mitochondria?",
+      "correct_answer": "Energy production",
+      "incorrect_answer": "Protein synthesis"
+}
+
+    
+  ]
+}

@@ -1,0 +1,20 @@
+{
+"sysUser":{
+    "name":"system", 
+    "password":"",
+    "setup":true, 
+    "dir":"/system/sysuser"
+    },
+"user0":{
+    "name":"username", 
+    "password":"password",
+    "setup":false, 
+    "dir":"/users/u0"
+    },
+"user1":{
+    "name":"cool alt acc", 
+    "password":"",
+    "setup":true, 
+    "dir":"/users/u1"
+    }
+}

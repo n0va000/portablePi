@@ -1,0 +1,58 @@
+{
+  "name": "Famous Animals Quiz",
+  "lives": 3,
+  "desc": "Test your knowledge of these well-known animals from around the world!",
+  "author": "AI Assistant (chatgpt)",
+  "questions": [
+    {
+      "question": "Which animal is known for its distinctive black and white markings and is native to China?",
+      "correct_answer": "Giant Panda",
+      "incorrect_answer": "Kangaroo"
+    },
+    {
+      "question": "What is the largest species of penguin, native to Antarctica?",
+      "correct_answer": "Emperor Penguin",
+      "incorrect_answer": "Macaroni Penguin"
+    },
+    {
+      "question": "Which marine mammal is often called the 'sea cow' and is known for its slow-moving nature?",
+      "correct_answer": "Manatee",
+      "incorrect_answer": "Dolphin"
+    },
+    {
+      "question": "What is the world's largest land animal, known for its long trunk and tusks?",
+      "correct_answer": "African Elephant",
+      "incorrect_answer": "Giraffe"
+    },
+    {
+      "question": "Which big cat is known for its distinctive black stripes and is found in parts of Asia?",
+      "correct_answer": "Tiger",
+      "incorrect_answer": "Cheetah"
+    },
+    {
+      "question": "Which bird is famous for its ability to imitate human speech and is often kept as a pet?",
+      "correct_answer": "Parrot",
+      "incorrect_answer": "Penguin"
+    },
+    {
+      "question": "What is the fastest land animal, known for its incredible speed and spotted coat?",
+      "correct_answer": "Cheetah",
+      "incorrect_answer": "Lion"
+    },
+    {
+      "question": "Which animal is a marsupial native to Australia and is known for its pouch?",
+      "correct_answer": "Kangaroo",
+      "incorrect_answer": "Elephant"
+    },
+    {
+      "question": "Which large marine animal is often referred to as the 'gentle giant' and is a filter feeder?",
+      "correct_answer": "Whale Shark",
+      "incorrect_answer": "Great White Shark"
+    },
+    {
+      "question": "What is the world's smallest mammal, known for its bumblebee-like appearance?",
+      "correct_answer": "Bumblebee Bat",
+      "incorrect_answer": "Squirrel"
+    }
+  ]
+}

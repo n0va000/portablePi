@@ -1,0 +1,31 @@
+does not work yet!
+
+    Japanese: こんにちは、世界！
+    English: Hello, world!
+
+    Japanese: 私の名前はサクラです。
+    English: My name is Sakura.
+
+    Japanese: このポータブルPCは便利です。
+    English: This portable PC is convenient.
+
+    Japanese: テストが成功しました！
+    English: The test was successful!
+
+    Japanese: 今日の天気予報は晴れです。
+    English: Today's weather forecast is sunny.
+
+    Japanese: 私は音楽が大好きです。特にロック音楽が好きです。
+    English: I love music. I especially like rock music.
+
+    Japanese: 日本の伝統文化と現代の技術が融合しています。
+    English: Japanese traditional culture and modern technology are merging.
+
+    Japanese: 旅行するのは新しい体験を得る良い方法です。
+    English: Traveling is a great way to gain new experiences.
+
+    Japanese: これは日本料理の代表的な料理の一つです。寿司は美味しいですよ！
+    English: This is one of the representative dishes of Japanese cuisine. Sushi is delicious!
+
+    Japanese: 明日の会議は大切なプロジェクトについてです。
+    English: Tomorrow's meeting is about an important project.

@@ -1,0 +1,58 @@
+{
+  "name": "Landmark Explorer Quiz",
+  "lives": 3,
+  "desc": "Test your knowledge of iconic landmarks from around the world!",
+  "author": "AI Assistant (chatgpt)",
+  "questions": [
+    {
+      "question": "Which ancient wonder was located in Egypt and was destroyed by earthquakes?",
+      "correct_answer": "Hanging Gardens of Babylon",
+      "incorrect_answer": "Great Pyramid of Giza"
+    },
+    {
+      "question": "Which Parisian landmark is famous for its stunning stained glass windows and Gothic architecture?",
+      "correct_answer": "Notre Dame Cathedral",
+      "incorrect_answer": "Eiffel Tower"
+    },
+    {
+      "question": "Which Indian monument is a white marble mausoleum and is considered a symbol of love?",
+      "correct_answer": "Taj Mahal",
+      "incorrect_answer": "Great Wall of China"
+    },
+    {
+      "question": "In which city can you find the iconic Christ the Redeemer statue overlooking the harbor?",
+      "correct_answer": "Rio de Janeiro",
+      "incorrect_answer": "New York City"
+    },
+    {
+      "question": "Which famous landmark is an ancient Incan citadel situated in the Andes Mountains?",
+      "correct_answer": "Machu Picchu",
+      "incorrect_answer": "Colosseum"
+    },
+    {
+      "question": "What is the name of the massive ancient stone circle located in England?",
+      "correct_answer": "Stonehenge",
+      "incorrect_answer": "Acropolis"
+    },
+    {
+      "question": "Which iconic tower in Italy is known for its unintended lean?",
+      "correct_answer": "Leaning Tower of Pisa",
+      "incorrect_answer": "Tower Bridge"
+    },
+    {
+      "question": "Which Chinese landmark is an ancient palace complex that served as the imperial palace for several dynasties?",
+      "correct_answer": "Forbidden City",
+      "incorrect_answer": "Terracotta Army"
+    },
+    {
+      "question": "Which famous opera house is located in Sydney and is characterized by its unique shell-like design?",
+      "correct_answer": "Sydney Opera House",
+      "incorrect_answer": "Louvre Museum"
+    },
+    {
+      "question": "Which American monument stands in South Dakota and features the faces of four U.S. presidents?",
+      "correct_answer": "Mount Rushmore",
+      "incorrect_answer": "Golden Gate Bridge"
+    }
+  ]
+}
